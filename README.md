@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-In Datascience Bootcamp has 10 sprints
+In Datascience Bootcamp has 9 sprints
 ### First part of the Bootcamp
 
 - Intro to Datascience
@@ -13,10 +13,7 @@ In Datascience Bootcamp has 10 sprints
 ### Second part of the Bootcamp
 
 - Essential Statistics
-- Matchine Learning for Data analyst
-- Building website portfolio
-- Python programming
-- Essential Python for Data analyst
+- Python programming 101
 - Dashboard with Looker Studio
 
 Contact: tonklakittiwat@gmail.com
